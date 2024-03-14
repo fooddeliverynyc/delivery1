@@ -1,0 +1,24 @@
+h1{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 48px;
+    text-align: center;
+}
+h3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+p{font-family: Impact, Haettenschweiler, sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+img{
+    width: 500px;
+height: auto;
+margin-bottom: 5%;
+padding: 10px;
+}
+body{
+  background-color: whitesmoke; 
+}
